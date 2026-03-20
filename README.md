@@ -4,7 +4,7 @@
 
 **Final-year B.Sc. CS (Hons) · Ahmedabad University · Class of 2026**
 
-*LLM systems builder · Blockchain hackathon winner*
+*Actively learning - LLM systems builder · End-to-end system development*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suryaraj09-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/suryarajsinhjadeja)
 [![GitHub](https://img.shields.io/badge/GitHub-SuryarajJadeja-181717?style=flat-square&logo=github)](https://github.com/saumyashah18)

@@ -1,8 +1,17 @@
-# Hey, I'm Suraj 👋
+<div align="center">
 
-Final-year B.Sc. Computer Science (Hons) student at Ahmedabad University, graduating in 2026. I build full-stack web apps, LLM-powered systems, and the occasional blockchain thing that wins hackathons.
+# Hello, I am Suryaraj Jadeja 👋
 
-Currently interning at the **Centre for Learning Futures (CLEF)** at AU, where I'm leading development of **AIssociate** — an LLM-driven adaptive assessment platform. Before that, I built a MERN stack turf booking platform at **SoHo Dragon** during a summer internship.
+**Final-year B.Sc. CS (Hons) · Ahmedabad University · Class of 2026**
+
+*LLM systems builder · Blockchain hackathon winner*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saumyashah18-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/suryarajsinhjadeja)
+[![GitHub](https://img.shields.io/badge/GitHub-SaumyaShah-181717?style=flat-square&logo=github)](https://github.com/saumyashah18)
+[![Email](https://img.shields.io/badge/Email-saumyaaashah.18@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:suryarajjadeja09@gmail.com)
+[![Location](https://img.shields.io/badge/📍-Ahmedabad,_India-333?style=flat-square)]()
+
+</div>
 
 ---
 

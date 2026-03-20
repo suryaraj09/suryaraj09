@@ -6,9 +6,9 @@
 
 *LLM systems builder · Blockchain hackathon winner*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saumyashah18-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/suryarajsinhjadeja)
-[![GitHub](https://img.shields.io/badge/GitHub-SaumyaShah-181717?style=flat-square&logo=github)](https://github.com/saumyashah18)
-[![Email](https://img.shields.io/badge/Email-saumyaaashah.18@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:suryarajjadeja09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suryaraj09-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/suryarajsinhjadeja)
+[![GitHub](https://img.shields.io/badge/GitHub-SuryarajJadeja-181717?style=flat-square&logo=github)](https://github.com/saumyashah18)
+[![Email](https://img.shields.io/badge/Email-suryarajjadeja09@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:suryarajjadeja09@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Ahmedabad,_India-333?style=flat-square)]()
 
 </div>

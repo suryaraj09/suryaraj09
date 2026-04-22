@@ -18,7 +18,7 @@
 ## What I Work With
 
 **Frontend** — React, TypeScript, Tailwind CSS, Redux, Framer Motion  
-**Backend** — Node.js, Express, NestJS, Python (FastAPI, pandas, sklearn)  
+**Backend** — Node.js, Express, and Python (FastAPI, pandas, sklearn)  
 **AI / LLM** — LangChain, Google Gemini 2.0, Claude, FAISS, RAG pipelines, GraphQL  
 **Blockchain** — Hyperledger Fabric v2.5, Solidity, Polygon, IPFS, Web3.js  
 **Databases** — MongoDB, PostgreSQL, SQLite, Firebase  

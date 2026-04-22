@@ -41,7 +41,7 @@
 ## Currently
 
 - Shipping AIssociate at CLEF
-- Always Learning TypeScript, AI-based appliction stacks, and DSA in Java (Wants to get it straight for one last time and moving ahead of Arrays :))
+- Always Learning TypeScript, AI-based application stacks, and DSA in Javascript and Python (Wants to get it straight for one last time and moving ahead of Arrays :))
 - Building my portfolio at [suryarajjadeja.tech](https://suryarajjadeja.tech)
 - Open to Web Dev / AI-focused roles starting August 2026 in Ahmedabad
 

@@ -39,7 +39,7 @@
 
 - Shipping AIssociate at CLEF, creating fun -- yet amazing workshops and nurturing some young interns :->
 - Always Learning TypeScript, AI-based application stacks, and DSA in Javascript and Python (Wants to get it straight for one last time and moving ahead of Arrays :))
-- Building my portfolio at [suryarajjadeja.tech](https://suryarajjadeja.tech) [I think it's now complete ;->
+- Building my portfolio at [suryarajjadeja.tech](https://suryarajjadeja.tech) [I think it's now complete ;->]
 - Looking to work on startups that are working in the AI or Backend landscape
 
 ---

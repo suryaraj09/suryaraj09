@@ -19,10 +19,10 @@
 
 **Frontend** — React, TypeScript, Tailwind CSS, Redux, Framer Motion  
 **Backend** — Node.js, Express, and Python (FastAPI, pandas, sklearn)  
-**AI / LLM** — LangChain, Google Gemini 2.0, Claude, FAISS, RAG pipelines, GraphQL  
-**Blockchain** — Hyperledger Fabric v2.5, Solidity, Polygon, IPFS, Web3.js  
-**Databases** — MongoDB, PostgreSQL, SQLite, Firebase  
-**Tools** — Git, Vite, Docker (basics), Vercel
+**AI / LLM** — LangChain, LangGraph, FAISS, RAG pipelines, GraphQL  
+**Blockchain** — Hyperledger Fabric v2.5, Solidity, Polygon, IPFS, Web3.js (Passive Hobby just like the tech)
+**Databases** — MongoDB, PostgreSQL, Firebase
+**Tools** — Git, Vite, Docker, Vercel, Supabase
 
 ---
 
@@ -32,18 +32,15 @@
 
 **BhoomiSetu** — Hybrid blockchain land registry combining Hyperledger Fabric (private chain) and Polygon Amoy Testnet (public chain). Features IPFS storage, soul-bound ERC-721 NFTs for registrar roles, and Bhoomika AI — a RAG-based assistant for legal document queries. Won 3rd Prize at a national hackathon at IIT Gandhinagar.
 
-**PerformIQ** — Workforce analytics platform with a composite Productivity Index across 8 weighted metrics. Includes a Python analytics engine (pandas, sklearn, scipy), SSE-powered real-time alerts, and a geofencing attendance system using the Browser Geolocation API and Haversine formula.
-
-**SportNearMe** — MERN stack turf booking platform with slot management and location-based search, built during my internship at SoHo Dragon.
 
 ---
 
 ## Currently
 
-- Shipping AIssociate at CLEF
+- Shipping AIssociate at CLEF, creating fun -- yet amazing workshops and nurturing some young interns :->
 - Always Learning TypeScript, AI-based application stacks, and DSA in Javascript and Python (Wants to get it straight for one last time and moving ahead of Arrays :))
-- Building my portfolio at [suryarajjadeja.tech](https://suryarajjadeja.tech)
-- Open to Web Dev / AI-focused roles starting August 2026 in Ahmedabad
+- Building my portfolio at [suryarajjadeja.tech](https://suryarajjadeja.tech) [I think it's now complete ;->
+- Looking to work on startups that are working in the AI or Backend landscape
 
 ---
 
